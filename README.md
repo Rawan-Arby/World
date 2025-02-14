@@ -1,12 +1,11 @@
-# Template 2 using HTML & CSS
-World
+
 # World
 
 Welcome to **World**, a modern and responsive HTML/CSS-based website built to showcase my learning and skills in web development. 
 This project demonstrates effective usage of HTML, CSS, and external libraries to create a visually appealing and user-friendly website.
 
 ## 🖥️ Preview
-- **Live Demo**: [View Website](https://rawa112.github.io/Template-2/)
+- **Live Demo**: [View Website](https://rawan-arby.github.io/World/)
   
 ## ✨ Features
 
